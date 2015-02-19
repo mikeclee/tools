@@ -1,0 +1,3 @@
+# Local Git Ignore List
+node_modules/
+build/
