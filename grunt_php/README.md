@@ -11,3 +11,7 @@ Using nodejs grunt tool to automate the build and development process
 ### Environment Setup
 
 export PATH=node_modules/grunt-cli/bin/:$PATH
+
+### Scratchpad
+
+(Basic Grunt)[https://github.com/jgable/grunt-phplint]
