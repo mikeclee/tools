@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ruleset name="PHP_CodeSniffer">
+ <!-- This is only used when no option is defined on CLI, simple invocation of phpcs -->
+ <description>Default configuration for PHPCS execution.</description>
+
+ <!-- Everything under current directly, normally should use folder name(s) -->
+ <file>./</file>
+
+ <exclude-pattern>*/Tests/*</exclude-pattern>
+
+ <!--arg name="report" value="summary"/-->
+ <!--arg value="np"/-->
+
+ <rule ref="PHPCS"/>
+ <!--ref="PEAR"/-->
+ 
+ <rule ref="./MyStandard"/>
+
+</ruleset>

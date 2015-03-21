@@ -8,3 +8,4 @@ Source: [PHPCS](https://github.com/squizlabs/PHP_CodeSniffer)
 
 ### Reference
 * [PHP-FIG](http://www.php-fig.org/psr/psr-2/)
+* [limonte](https://github.com/limonte/coding-standards)
