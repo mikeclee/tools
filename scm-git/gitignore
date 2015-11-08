@@ -1,0 +1,8 @@
+
+# Folders end with trailing /
+.idea/
+tmp/
+
+# Files
+tmp-*
+*.iml
