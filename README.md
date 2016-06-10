@@ -22,3 +22,9 @@ Master List
 -----------
 
 * Grunt for PHP development
+
+DIY Script List
+---------------
+
+* util-check-redirects - Python script to quickly check against a list of URLs to ensure they are forwarding correctly. Checking for 301 and 302 statua
+
